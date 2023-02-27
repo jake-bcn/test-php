@@ -1,0 +1,18 @@
+{
+    "name": "jake-bcn/test-php",
+    "description": "test case",
+    "type": "metapackage",
+    "autoload": {
+        "psr-4": {
+            "JakeBcn\\TestPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jake.tse",
+            "email": "jake.tse@bcnetcom.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
